@@ -6,7 +6,7 @@ import java.util.concurrent.atomic.AtomicLong;
 
 import org.springframework.stereotype.Service;
 
-import br.com.erudio.model.Person;
+import br.com.erudio.models.Person;
 
 @Service
 public class PersonServices {
